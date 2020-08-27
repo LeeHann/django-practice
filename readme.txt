@@ -26,6 +26,7 @@ Scripts\activate.bat
 <Django project>
 참고 장고걸스 튜토리얼 https://tutorial.djangogirls.org/ko/
 
+장고 생성 -- pip3 install django
 
 1. 장고 사이트 파일 생성
 django-admin startproject (사이트 폴더 이름)
@@ -55,3 +56,5 @@ python manage.py runserver 웹서버 실행
 python manage.py createsuperuser 슈퍼사용자 생성
 - Username, Email address, Password 작성
 
+<웹 오류>
+Error code: Unhandled Exception

@@ -74,6 +74,7 @@ URLconf (URL configuration) : 장고에서 URL과 일치하는 뷰를 찾기 위
 
 
 
+
 -참고
 파이썬 코딩 도장, 가상환경 사용하기
 https://dojang.io/mod/page/view.php?id=2470

@@ -2,6 +2,6 @@
 myvenv
 *.pyc
 *~
+*.sqlite3
 __pycache__
-db.sqlite3
 .DS_Store

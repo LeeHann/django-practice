@@ -63,6 +63,12 @@ Error code: Unhandled Exception
 
 URLconf (URL configuration) : 장고에서 URL과 일치하는 뷰를 찾기 위한 패턴들의 집합
 
+- django는 admin/으로 시작하는 모든 URL을 view와 비교해 찾아냄 -> 많은 URL이 admin URL에 포함될 수도 있으므로
+모두 쓸 수 없음 -> 정규표현식 사용
+
+
+
+
 
 
 

@@ -24,7 +24,6 @@ Scripts\activate.bat
 =>(가상환경 이름) 으로 프롬프트가 실행되면 가상환경이 돌아가는 것.
 
 <Django project>
-참고 장고걸스 튜토리얼 https://tutorial.djangogirls.org/ko/
 
 장고 생성 -- pip3 install django
 
@@ -58,3 +57,27 @@ python manage.py createsuperuser 슈퍼사용자 생성
 
 <웹 오류>
 Error code: Unhandled Exception
+
+
+
+
+URLconf (URL configuration) : 장고에서 URL과 일치하는 뷰를 찾기 위한 패턴들의 집합
+
+
+
+
+
+
+
+
+
+
+
+
+-참고
+파이썬 코딩 도장, 가상환경 사용하기
+https://dojang.io/mod/page/view.php?id=2470
+MDN web docs 
+https://developer.mozilla.org/ko/docs/Learn/Server-side/Django/development_environment
+장고걸스 튜토리얼 
+https://tutorial.djangogirls.org/ko/
